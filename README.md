@@ -2,10 +2,10 @@
 
 <h1>localHost 3000 not loading/working</h1>
   
-<img src="https://github.com/shreyansh225/localHost-3000-not-working-problem-Solution/Browser display.jpeg
+<img src="https://github.com/shreyansh225/localHost-3000-not-working-problem-Solution/Browser_display.jpeg
 " alt="Browser display error" width="105%" height="105%" style="vertical-align:middle;margin:0px 50px">
 <br>
-<img src="https://github.com/shreyansh225/localHost-3000-not-working-problem-Solution/Powershell display.jpeg" alt="Power Shell Server not loading" width="105%" height="105%" style="vertical-align:middle;margin:0px 50px">
+<img src="https://github.com/shreyansh225/localHost-3000-not-working-problem-Solution/Powershell_display.jpeg" alt="Power Shell Server not loading" width="105%" height="105%" style="vertical-align:middle;margin:0px 50px">
 <br>
 <h1> Solution </h1>
 <h2> to start the server write in cmd =>npm start </h2>
@@ -16,7 +16,7 @@
 <h3> Now the React web app should open in the browser after starting the server </h3>
 
 <br>
-<img src="https://github.com/shreyansh225/localHost-3000-not-working-problem-Solution/React app on browser.jpeg" alt="React app works fine now in localhost:300 " width="105%" height="105%" style="vertical-align:middle;margin:0px 50px">
+<img src="https://github.com/shreyansh225/localHost-3000-not-working-problem-Solution/React_browser_app.jpeg" alt="React app works fine now in localhost:300 " width="105%" height="105%" style="vertical-align:middle;margin:0px 50px">
 <br>
 
 <p> 
