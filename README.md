@@ -6,10 +6,10 @@
 <img src="https://github.com/shreyansh225/localHost-3000-not-working-problem-Solution/blob/master/Powershell_display.jpeg" alt="Power Shell Server not loading" width="105%" height="105%" style="vertical-align:middle;margin:0px 50px">
 <br>
 <h1> Solution </h1>
-<h2> to start the server write in cmd =>npm start </h2>
-<h2> If it dosen't work, Firstly Update or install the latest version of Node </h2>
-<h2> After that write in cmd =>npm update react react-dom</h2>
-<h2> After that write in cmd =>npm update</h2>
+<h2>1) to start the server write in cmd =>npm start </h2>
+<h2>2) If it dosen't work, Firstly Update or install the latest version of Node </h2>
+<h2>3) After that write in cmd =>npm update react react-dom</h2>
+<h2>4) After that write in cmd =>npm update</h2>
 
 <h3> Now the React web app should open in the browser after starting the server </h3>
 
